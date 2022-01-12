@@ -1,11 +1,44 @@
-# The Language Guide :open_book:
+ The Language Guide :open_book:
 
-# My Guide for learning languages 
+##My Guide for learning languages
+
+
+the 4 pillars of any language are divided between
 
 
 
-the 4 pillars of any language are divided between 
-listening
-speaking
-writing 
-reading
+
+[TOCM]
+
+[TOC]
+
+
+
+
+
+####- Listening
+
+
+
+
+
+
+
+
+####- Speaking
+
+
+
+
+
+
+####- Writing
+
+
+
+
+
+
+
+
+####- Reading
